@@ -1,3 +1,11 @@
+## О проекте:
+
+Это учебный проект "Учет сотрудников" на ReactJs
+
+При нажатии на имя сотрудника он добавляется в избранное
+
+При нажатии на cookie сотрудник идет на повышение
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
